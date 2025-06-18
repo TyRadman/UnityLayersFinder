@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Layers finder",
   "description": "Search objects by layers within the project's scope. It lists all objects in the project files and categorizes them by layers. It also renames layers and changes layers for chosen objects and more.",
-  "unity": "2021.3.3",
+  "unity": "2021.3",
   "author": {
     "name": "Ty Radman",
     "url": "https://github.com/TyRadman"
