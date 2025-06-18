@@ -11,13 +11,10 @@ Search and manage GameObjects by layers across your Unity project.
 
 ## Installation
 
-Add this to your `Packages/manifest.json`:
+1. Open **Window > Package Manager**
+2. Click the **+** button → **Add package from Git URL...**
+3. Paste this:
 
-```json
-"com.tyradman.hierarchyhighlighter": "https://github.com/TyRadman/hierarchyhighlighter.git"
-```
-
-> Make sure `package.json` is at the root of the repo.
 
 ## Usage
 
